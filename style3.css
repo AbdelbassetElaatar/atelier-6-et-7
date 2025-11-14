@@ -1,0 +1,39 @@
+body {
+  color: #7a0382;
+}
+
+a {
+  background-color: white;
+  width: 84px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px;
+  margin-bottom: 5px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+body {
+  background-color: #d7da22;
+}
+.blackArea {
+  background-color: black;
+  width: 10px;
+}
+pre{
+    font-style: oblique;
+}
+li {
+  list-style: none;
+
+  border-right: 20px solid black;
+}
+.main {
+  display: flex;
+}
+.content {
+  margin-left: 50px;
+}
+hr {
+  border-top: 2px dotted black;
+  border-bottom: none;
+}
